@@ -53,5 +53,5 @@ cd ..
     echo UUID: $uuid
     echo path: /$path
     echo "配置链接："
-    eecho vmess://$vmess
+    echo vmess://$vmess
 
